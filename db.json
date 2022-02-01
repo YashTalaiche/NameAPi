@@ -1,2 +1,4 @@
-{ "randonname" :{"names":["yash","john","rock","json"]}
+{ "randonname" :{"names":["yash","john","rock","json"]},
+  "PI" :"HIGH",
+ "PI" :"LOW"
 }
